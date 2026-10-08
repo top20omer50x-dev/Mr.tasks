@@ -1,0 +1,9 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+tasks.json
+settings.json
